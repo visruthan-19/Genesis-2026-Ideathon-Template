@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I072
 ### Team Details
-#### **Team Name** <<HACKNOVA>> <br/>
+#### **HACKNOVA** <<HACKNOVA>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme |        Hostel details     |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-----------------------------:|:-------------------------:|
